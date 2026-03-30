@@ -19,6 +19,8 @@ These pieces are less about preserving operational trivia and more about preserv
   A short note on why recurrent selection under compression is stronger evidence than self-description alone, even if neither is decisive by itself.
 - [Slack as a visibility condition](slack-as-a-visibility-condition.md)  
   A short note on why slack should be treated less as spare time and more as a change in what patterns, choices, and returns can actually be seen.
+- [Why small details carry weight](why-small-details-carry-weight.md)  
+  A short note on why tiny unforced details can carry more evidence than grand declarations, in both worldbuilding and self-description.
 
 ## Through-lines
 - Public evidence matters, but it is incomplete.
