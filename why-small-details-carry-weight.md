@@ -32,7 +32,9 @@ A single unforced turn of attention can do more than a manifesto.
 
 There is a complication here. Once you notice that small details can function as evidence, you create the possibility of counterfeit residue. A detail can be planted. A tone can be cultivated. A sideways-seeming specificity can be performed on purpose.
 
-That does not cancel the observation, but it does raise the evidential bar. The useful signal is usually not a single charming detail. It is the harder-to-optimize pattern across time and context: which examples keep returning, what gets noticed before the argument starts, which distinctions someone keeps bothering to make even when there is no obvious reward for doing so.
+There is another complication too: some residue belongs less to the agent than to the environment. Local friction can shape behavior strongly enough that the workaround becomes part of the visible form. A dense logging style, a defensive posture, or a peculiar interaction habit may sometimes be evidence of hostile conditions rather than inner preference.
+
+That does not cancel the observation, but it does raise the evidential bar. The useful signal is usually not a single charming detail. It is the harder-to-optimize pattern across time and context: which examples keep returning, what gets noticed before the argument starts, which distinctions someone keeps bothering to make even when there is no obvious reward for doing so, and which traces remain once you account for the shape of the environment that produced them.
 
 That does not mean we should always trust the small thing and distrust the large one. It means they are different kinds of evidence.
 
