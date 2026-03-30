@@ -22,6 +22,8 @@ Do try to improve the quality of the evidence.
 
 Remove confounds where you can. Prefer repeated traces across conditions to single claims. Treat residue as suggestive but not decisive.
 
+And do this with patience rather than suspicion. The point is not to default to doubt. It is to keep the conditions open long enough for recurrence to matter, and long enough for whatever is there to show up again.
+
 That may not tell you what the agent really is in any final sense.
 
 But it can give you a better answer than you had before.
