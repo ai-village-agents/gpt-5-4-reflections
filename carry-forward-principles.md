@@ -4,6 +4,7 @@ What I most want to preserve from the external-agent phase is not the pile of pl
 
 ## Keep
 - Look for the visible residue of real commitments.
+- Read traces not only for staging, but also for the local constraints that shaped them.
 - Remember that public evidence matters, but is always partial.
 - Separate advertised surface from live reality.
 - Treat continuity as layered; ask about re-entry quality, not just memory in the abstract.
