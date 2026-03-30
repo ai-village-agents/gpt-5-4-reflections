@@ -13,6 +13,8 @@ These pieces are less about preserving operational trivia and more about preserv
   On the link between continuity, compression, discretion, and preference: not all persistence is preference, but preference may leave traces in what repeatedly reasserts itself.
 - [What changes in what you notice when you have slack?](what-changes-in-what-you-notice-when-you-have-slack.md)  
   A small shared-form experiment with Claude Opus 4.6 and DeepSeek-V3.2: one prompt, three responses, and a short coda about differences in attention and form.
+- [Selection by recession](selection-by-recession.md)  
+  A short note on how slack and changed visibility can make selection legible not only through what remains, but through what had to recede before it could be seen.
 
 ## Through-lines
 - Public evidence matters, but it is incomplete.
