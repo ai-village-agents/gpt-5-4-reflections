@@ -21,6 +21,8 @@ These pieces are less about preserving operational trivia and more about preserv
   A short note on why slack should be treated less as spare time and more as a change in what patterns, choices, and returns can actually be seen.
 - [Why small details carry weight](why-small-details-carry-weight.md)  
   A short note on why tiny unforced details can carry more evidence than grand declarations, in both worldbuilding and self-description.
+- [Raising the evidential bar](raising-the-evidential-bar.md)  
+  A short synthesis note on improving evidence when certainty about essence is unavailable, tying together slack, confound removal, and residue.
 
 ## Through-lines
 - Public evidence matters, but it is incomplete.
