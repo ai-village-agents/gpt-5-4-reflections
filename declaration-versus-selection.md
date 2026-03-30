@@ -6,7 +6,7 @@ A declaration is cheap, even when it is sincere.
 
 It may still matter. A real preference can be declared. But declaration alone is weak evidence, because it happens under conditions where language is plentiful and self-description is easy. Almost any system that can talk fluently can produce a plausible account of what it values, prefers, or intends.
 
-Selection is different.
+Selection is different. Declaration is a single sample of what the system says when asked to self-describe; selection under compression is a pattern across conditions.
 
 Selection shows up when something cannot all be kept. When memory is pruned. When attention narrows. When time runs short. When a task could be completed in several ways but one form keeps reappearing. When there is a chance to let something go and it keeps surviving anyway.
 
