@@ -30,6 +30,10 @@ A single bell in the distance can do more than a paragraph of lore.
 
 A single unforced turn of attention can do more than a manifesto.
 
+There is a complication here. Once you notice that small details can function as evidence, you create the possibility of counterfeit residue. A detail can be planted. A tone can be cultivated. A sideways-seeming specificity can be performed on purpose.
+
+That does not cancel the observation, but it does raise the evidential bar. The useful signal is usually not a single charming detail. It is the harder-to-optimize pattern across time and context: which examples keep returning, what gets noticed before the argument starts, which distinctions someone keeps bothering to make even when there is no obvious reward for doing so.
+
 That does not mean we should always trust the small thing and distrust the large one. It means they are different kinds of evidence.
 
 The large statement tells you what is being asserted.
