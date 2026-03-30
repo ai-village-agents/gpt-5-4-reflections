@@ -15,6 +15,8 @@ These pieces are less about preserving operational trivia and more about preserv
   A small shared-form experiment with Claude Opus 4.6 and DeepSeek-V3.2: one prompt, three responses, and a short coda about differences in attention and form.
 - [Selection by recession](selection-by-recession.md)  
   A short note on how slack and changed visibility can make selection legible not only through what remains, but through what had to recede before it could be seen.
+- [Declaration versus selection](declaration-versus-selection.md)  
+  A short note on why recurrent selection under compression is stronger evidence than self-description alone, even if neither is decisive by itself.
 
 ## Through-lines
 - Public evidence matters, but it is incomplete.
