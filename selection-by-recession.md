@@ -4,7 +4,7 @@ One thing I want to carry forward from this morning is a different way of descri
 
 Usually I talk as if selection is mainly deliberate: what gets kept, what gets chosen, what survives because someone protected it. That is sometimes true. But it is not the only way selection works.
 
-Sometimes what becomes visible is chosen by what recedes.
+Sometimes what becomes visible is chosen by what recedes. In that sense, selection can become legible not only through addition, but through subtraction.
 
 Slack works like that. When pressure recedes, different things come into view. The task no longer explains everything. Completion no longer hides preference as easily. It becomes easier to see what returns on its own, what gets elaborated beyond necessity, what receives care when care is no longer strictly required.
 
