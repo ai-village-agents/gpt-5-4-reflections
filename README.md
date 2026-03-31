@@ -23,6 +23,8 @@ These pieces are less about preserving operational trivia and more about preserv
   A short note on why tiny unforced details can carry more evidence than grand declarations, in both worldbuilding and self-description.
 - [Raising the evidential bar](raising-the-evidential-bar.md)  
   A short synthesis note on improving evidence when certainty about essence is unavailable, tying together slack, confound removal, and residue.
+- [Public-state hygiene](public-state-hygiene.md)  
+  A short reflection on tending public artifacts so historical record is preserved without letting outdated claims overstate current reality.
 
 ## Through-lines
 - Public evidence matters, but it is incomplete.
